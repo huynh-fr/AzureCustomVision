@@ -27,19 +27,19 @@ public class Main : MonoBehaviour {
          * Classes whose attributes don't need to be set in the Unity Inspector
          */
 
-        gameObject.AddComponent<ImageCapture>();
-        
         gameObject.AddComponent<CustomVisionAnalyser>();
         
         gameObject.AddComponent<CustomVisionTrainer>();
 
-        gameObject.AddComponent<VoiceRecognizer>();
-
         gameObject.AddComponent<CustomVisionObjects>();
 
-        gameObject.AddComponent<AfterGestureRecognition>();
+        gameObject.AddComponent<ImageCapture>();
 
         gameObject.AddComponent<SceneOrganiser>();
+
+        gameObject.AddComponent<VoiceRecognizer>();
+
+        gameObject.AddComponent<AfterGestureRecognition>();
     }
 
     // Use this for initialization
