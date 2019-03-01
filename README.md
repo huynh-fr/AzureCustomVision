@@ -28,5 +28,6 @@ We take a picture of the real world, analyse it, tag objects with words and disp
 The best thing to do would be to complete the [MR and Azure 310](https://docs.microsoft.com/en-us/windows/mixed-reality/mr-azure-310) tutorial and then try this project. But you can skip this step and follow the next instructions if you want.
 
 Download this project and open it in Unity.
+[HoloToolkit](https://github.com/Microsoft/MixedRealityToolkit-Unity/releases/tag/2017.4.3.0) and [TextMesh Pro](https://assetstore.unity.com/packages/essentials/beta-projects/textmesh-pro-84126) assets seem to have too many sub-folders, so you will need to import them.
 Build the scene "CustomVisionScene" into a C# project (UWP app) and open it in Visual Studio as shown in the tutorial [Chapter 13](https://docs.microsoft.com/en-us/windows/mixed-reality/mr-azure-310#chapter-13---build-the-uwp-solution-and-sideload-your-application).
 Run the App from VS (Device or Remote). If there is a bug, just try to run a 2nd time the App.
