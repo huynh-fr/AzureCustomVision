@@ -23,6 +23,14 @@ We take a picture of the real world, analyse it, tag objects with words and disp
 
 ## II. Installation
 
+Enable Developer mode in Windows > Settings > For developers.
+
+Install Unity 2017.4.1f1 with the link in I.Requirements.
+Check Windows Backend for .NET and IL2CPP options.
+Log in with a Unity account or create one with Google.
+
+When you will open Visual Studio, update NuGet packages (Tools > NuGet Package Manager > 
+
 ## III. Getting started
 
 The best thing to do would be to complete the [MR and Azure 310](https://docs.microsoft.com/en-us/windows/mixed-reality/mr-azure-310) tutorial and then try this project. But you can skip this step and follow the next instructions if you want.
@@ -31,3 +39,4 @@ Download this project and extract it at your PC's root (C:\Hololens\). Open it i
 [HoloToolkit](https://github.com/Microsoft/MixedRealityToolkit-Unity/releases/tag/2017.4.3.0) and [TextMesh Pro](https://assetstore.unity.com/packages/essentials/beta-projects/textmesh-pro-84126) assets seem to have too many sub-folders, so you will need to import them. Delete in the HoloToolkit folder the files that are doubled in the project.
 Build the scene "CustomVisionScene" into a C# project (UWP app | Hololens) and open it in Visual Studio as shown in the tutorial [Chapter 13](https://docs.microsoft.com/en-us/windows/mixed-reality/mr-azure-310#chapter-13---build-the-uwp-solution-and-sideload-your-application).
 Run the App from VS (Release | x86 | Device or Remote). If there is a bug, just try to run a 2nd time the App.
+For the first time, you will be asked the Hololens PIN. With your Hololens : Menu > Settings > Updates & Security > For developers > Pair 
