@@ -29,7 +29,8 @@ Install Unity 2017.4.1f1 with the link in I.Requirements.
 Check Windows Backend for .NET and IL2CPP options.
 Log in with a Unity account or create one with Google.
 
-When you will open Visual Studio, update NuGet packages (Tools > NuGet Package Manager > 
+Install Visual Studio 2017 : check .NET for Desktop and Windows Universal Platform dev.
+Log in with an outlook account.
 
 ## III. Getting started
 
