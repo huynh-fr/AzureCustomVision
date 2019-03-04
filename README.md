@@ -12,9 +12,9 @@ We take a picture of the real world, analyse it, tag objects with words and disp
 
 •	The latest Windows 10 SDK
 
-•	Unity 2017.4 LTS
+•	[Unity 2017.4 LTS](https://unity3d.com/unity/qa/lts-releases?version=2017.4&page=3)
 
-•	Visual Studio 2017
+•	[Visual Studio 2017](https://visualstudio.microsoft.com/downloads/)
 
 •	A Microsoft HoloLens with Developer mode enabled
 
