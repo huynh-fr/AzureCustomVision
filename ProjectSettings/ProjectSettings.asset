@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 14
-  productGUID: 40537fad05c0281499a45af51e52c453
+  productGUID: 360ac47485f77e0468ae6eb2e7f3758a
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   defaultScreenOrientation: 4
@@ -12,7 +12,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: CustomVisionTest
+  productName: AzureCustomVision
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -562,14 +562,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: CustomVisionTest
+  metroPackageName: AzureCustomVision
   metroPackageVersion: 1.0.0.0
-  metroCertificatePath: Assets\WSATestCertificate.pfx
+  metroCertificatePath: 
   metroCertificatePassword: 
-  metroCertificateSubject: DefaultCompany
-  metroCertificateIssuer: DefaultCompany
-  metroCertificateNotAfter: 00fc16580284d501
-  metroApplicationDescription: CustomVisionTest
+  metroCertificateSubject: 
+  metroCertificateIssuer: 
+  metroCertificateNotAfter: 0000000000000000
+  metroApplicationDescription: AzureCustomVision
   wsaImages: {}
   metroTileShortName: 
   metroCommandLineArgsFile: 
@@ -665,8 +665,8 @@ PlayerSettings:
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 3
-  cloudProjectId: 9f080b9f-2ec2-4d5b-9c84-9d1b78576c42
-  projectName: CustomVisionTest
+  cloudProjectId: 8bb3aaf7-41f7-435f-9357-4840cb70b852
+  projectName: AzureCustomVision
   organizationId: unity_o_dzs5l8pdy8lg
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
