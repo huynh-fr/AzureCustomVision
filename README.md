@@ -4,6 +4,7 @@ NAIST project : Hololens Object Detection implementation
 This project was based on the [MR and Azure 310](https://docs.microsoft.com/en-us/windows/mixed-reality/mr-azure-310) course.
 We take a picture of the real world, analyse it, tag objects with words and display the bounding box and name of the recognized object in 3D space.
 
+
 ## I.	Requirements
 
 •	A development PC
@@ -22,6 +23,16 @@ We take a picture of the real world, analyse it, tag objects with words and disp
 
 
 ## II. Installation
+
+Enable Developer mode in Windows > Settings > For developers.
+
+Install Visual Studio 2017 : check .NET for Desktop and Windows Universal Platform dev.
+Log in with an outlook account.
+
+Install Unity 2017.4.1f1 with the link in I.Requirements.
+Check Windows Backend for .NET and IL2CPP options.
+Log in with a Unity account or create one with Google.
+
 
 ## III. Getting started
 
