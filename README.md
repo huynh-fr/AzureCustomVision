@@ -44,7 +44,7 @@ First, complete [Chapter 1](https://docs.microsoft.com/en-us/windows/mixed-reali
 
 ### 2) Unity
 
-Download this project and extract it at your PC's root (C:\Hololens\). Open it in Unity.
+Download this project and extract it at your PC's root (C:\Hololens\). Open Assets\Scenes\CustomVisionScene.unity in Unity.
 Check that your project is set like in [Chapter 3](https://docs.microsoft.com/en-us/windows/mixed-reality/mr-azure-310#chapter-3---set-up-the-unity-project). Also, for step 7.b. check under Capabilities : InternetClient, WebCam, Microphone, SpatialPerception.
 Paste the information you copied in Chapter 2 in the CustomVisionAnalyser and CustomVisionTrainer classes specific variables.
 
