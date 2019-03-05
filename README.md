@@ -56,3 +56,5 @@ Build the scene "CustomVisionScene" into a C# project (UWP app | Hololens) as sh
 
 Open and run the solution in Visual Studio from the folder you just created (Release | x86 | Device or Remote). If there is a bug, just try to run a 2nd time the App.
 For the first time, you will be asked the Hololens PIN. With your Hololens : Menu > Settings > Updates & Security > For developers > Pair 
+
+NOTE : for the next Unity Builds, you can just select the folder you just created. The files should be re-written. However, if there is a bug, delete that folder and Build in Unity like you did the first time.
